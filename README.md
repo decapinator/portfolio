@@ -1,6 +1,6 @@
 <h2 align="center">
   portfolio Website <br/>
-  <a href="http://eddybounasr.github.io/portfolio" target="_blank">eddybounasr.io</a>
+  <a href="http://decapinator.github.io/portfolio" target="_blank">decapinator.eth</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -20,18 +20,18 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/eddybounasr/portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/decapinator/portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/eddybounasr/portfolio/issues">Request Feature</a>
+    <a href="https://github.com/decapinator/portfolio/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [eddybounasr](https://github.com/eddybounasr/portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [eddybounasr](https://github.com/decapinator/portfolio). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="http://eddybounasr.github.io/portfolio" target="_blank">eddybounasr.io</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="http://decapinator.github.io/portfolio" target="_blank">decapinator.eth</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
